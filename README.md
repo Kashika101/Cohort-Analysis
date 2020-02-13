@@ -1,4 +1,4 @@
-##
+## Cohort Analysis
 -------------
 Cohort analysis takes a selection of data from a larger data set, over a period of time, and instead of looking at all the users as one single unit, it segregates them into smaller related groups based on different types of attributes for analysis.
 
